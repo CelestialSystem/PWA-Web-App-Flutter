@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Lenses",
+    "image": ["img_lenses.png"],
+    "description": "We are reckoned as one of the most preeminent Achromatic Lenses Manufacturers and Lenses Suppliers in India. We offer a huge array of Lenses that include Achromatic Lenses, Aspherical Lenses, Concave Lenses, Convex Lenses, Cylindrical Lenses, Meniscus Lenses, Photo Enlarger Lenses, Photography Lenses and Triplet Lenses. The unmatched clarity, fine finish and accurate result have played a vital role in the enhancement of the demand of lenses in the worldwide market. Customers are also eased with the availability of the Lenses in varied focal lengths, diameters and specifications.",
+    "subCategory": [
+      {
+        "name": "Achromatic Lenses",
+        "image": ["img_achromatic_lens.jpg"],
+        "description": "We are renowned as one of the most prominent Achromatic Lens Manufacturers in India. The Achromatic Lenses (achromat) are designed to eliminate chromatic and spherical aberrations inherent in singlet lenses. When used on-axis, an achromatic lens focuses unparallel input beam to a perfect point, limited only by the effects of diffraction. This performance can be achieved over a broadband of wavelength. Achromatic Doublet Lens is used to collimate and focus laser beams. They can also be used for high-quality imaging on-axis.",
+        "subCategory": []
+      },
+      {
+        "name": "Aspherical Lenses",
+        "image": ["img_aspherical_lens.jpg"],
+        "description": "We are listed amidst the most dependable Aspherical Glass Lens Exporters and Suppliers in India. The aspheric lens is a single element optical component with one aspheric convex surface and one Plano or Spherical convex surface. Characterized by f-numbers less than 10, aspheres provide maximum energy throughput over a limited path length. Although, Aspherical Lenses are not designed for imaging applications, they are ideal for use in illumination systems where it is often necessary to collect and/or focus as much light as possible. There are many different kinds of Aspherical Autofocus Lens designs, such as aspheric-plano, aspheric-concave, aspheric-convex, bi-aspheric, or aspheric lens arrays to meet the varied requirements.",
+        "subCategory": []
+      },
+      {
+        "name": "Concave Lenses",
+        "image": ["img_concave_lens.jpg"],
+        "description": "We are reputed as one of the most eminent Double Concave Lenses Exporters and Plano Concave Lenses Suppliers in India. The Concave Lenses are used to obtain virtual and upright image of the abject. Moreover, the size of the image so formed is smaller than the object. The concave lenses are available in varied diameters and specifications to meet the applications.",
+        "subCategory": [
+          {
+            "name": "Double Concave Lenses",
+            "image": ["img_double_concave.jpg"],
+            "description": "We are listed at the most famed DCV Lenses Manufacturers in India. The Bi-concave glass lenses are manufactured with both surfaces concave. These lenses have negative focal lengths. Double Concave Lenses diverge the collimated incident light and form virtual images, which are seen through the lens. Double Concave Optical Lenses are often used to expand light or increase focal lengths in existing systems. They are used in laser beam expanders, optical character readers, viewers, and projection systems. Antireflection coatings can be ordered as an option.",
+            "subCategory": []
+          },
+          {
+            "name": "Plano Concave Lenses",
+            "image": ["img_plano_concave.jpg"],
+            "description": "Our company is recognized as one of the most preeminent Precision Plano Concave Lenses Manufacturers in India. The Plano Concave Lenses are made from various materials, which are manufactured with one concave surface and one plane surface. These lenses have negative focal lengths. These lenses diverge the collimated incident light to form virtual images which are seen through the lens. PCV Lenses are often used to expand light or to increase focal lengths in existing systems. We also offer precision grade Plano Concave Lens with tighter manufacturing tolerances.",
+            "subCategory": []
+          }
+        ]
+      },
+      {
+        "name": "Convex Lenses",
+        "image": ["img_convex_lens.jpg"],
+        "description": "We are renowned as the well-reputed Plano Convex Lenses Manufacturer and amongst the reliable Double Convex Lenses Suppliers in India. The Convex Lenses offered by us possess high clarity, fine finish and excellent focal length that further assist in the close examination of small objects. We also provide convex lenses in varied diameters and specifications.",
+        "subCategory": [
+          {
+            "name": "Double Convex Lenses",
+            "image": ["img_double_convex.jpg"],
+            "description": "We are counted amidst the most overriding Double Convex Magnifying Lens Manufacturers and Suppliers in India. The Double Convex Lenses are manufactured with an identical or different convex surface on both sides of the lens. Bi-convex lenses have positive focal lengths and form both real and virtual images. Aberrations such as coma, distortion, and chromatic aberration almost exactly cancel out at unit conjugate ratios due to the symmetry. Aberrations will increase as conjugate ratios depart from unity. Double Convex Lenses are also recommended for virtual imaging of real objects and for positive conjugate ratios from approximately 0.2 to 5. Values are wavelength sensitive. Antireflection coatings can be ordered as an option.",
+            "subCategory": []
+          },
+          {
+            "name": "Plano Convex Lenses",
+            "image": ["img_plano_convex.jpg"],
+            "description": "We are renowned as one of the most preeminent Precision Plano-Convex Lenses Exporters and Suppliers in India. The Plano Convex Lenses are made from various materials. It presents a curved interface and a planar interface. Depending on their role in an optical system, their orientation has to be taken into account. This is the most common type of lens element. PCX Lens is used to focus, collect and collimate light. It is also useful as a simple imaging lens where image quality requirement is not too critical. Precision grade lenses are manufactured to tighter tolerances",
+            "subCategory": []
+          }
+        ]
+      },
+      {
+        "name": "Cylindrical Lenses",
+        "image": ["img_cly_lens.jpg"],
+        "description": "We are listed at the apex in the list of the most eminent Cylindrical Lenses Manufacturers and Suppliers in India. The array of the Cylindrical Lenses offered by us includes two types of lenses i.e. Plano Convex Cylindrical Lenses for line imaging or uni-axial magnification in a wide range of applications and Plano Concave Cylindrical Lenses providing uni-axial negative imaging for anamorphic beam expansion and a wide range of applications.",
+        "subCategory": []
+      },
+      {
+        "name": "Meniscus Lenses",
+        "image": ["img_meniscus_lens.png"],
+        "description": "Meniscus Lenses made available by us are accessible in both positive and negative focal length. The Positive Meniscus Lenses are a convex-concave lens with thicker center than the edge where as negative meniscus lenses are a convex-concave lens with thinner center as compared to the edge. They are highly polished and used in various scientific equipments. Besides, we are one of the eminent Meniscus Lenses Manufacturers as well as Suppliers in India.",
+        "subCategory": []
+      },
+      {
+        "name": "Photo Enlarger Lenses",
+        "image": ["img_photo_enlager.jpg"],
+        "description": "A Photo Enlarger Lenses is a multi element lens system used to produce photographic prints from the film or glass negatives. Our Photo Magnifier Lenses are available in various Focal lengths such as 50mm, 75mm, 105mm etc. There optical elements are Antireflection coated. In addition to this, we are reckoned as one of the prime Enlarger Lenses Exporters Suppliers in India",
+        "subCategory": []
+      },
+      {
+        "name": "Photo Imaging Lenses",
+        "image": ["img_imaging_lens.jpg"],
+        "description": "We are counted among the best Photography Lenses Exporters in the international market. The Photo imaging lenses are used in multi format cameras and used for various applications. They are also available in various focal lengths. Besides, the company is also reckoned as one of the most reputed Imaging Camera Lens Suppliers in India.",
+        "subCategory": []
+      },
+      {
+        "name": "Triplet Lenses",
+        "image": ["img_triplet_lens.jpg"],
+        "description": "Triplet Lenses or loupe lenses offer the best performance in terms of achromatic clarity and have a relatively large viewing area. Our Triplet Objective Lens combines 3 cemented lenses, made from crown and flint glass and are corrected for chromatic aberration and barrel distortion.\nA 15X lens may be used for geology field studies. The 20X magnifier can be used to view fungal spores & the 30X for micro fractures in jet engine turbine blades. Additionally, we are one of the foremost Triplet Magnifying Lens Manufacturers and Suppliers in India.",
+        "subCategory": []
+      }
+    ]
+  },
+  {
+    "name": "Prisms",
+    "image": ["img_prism.jpg", "img_penta_prism.jpg", "img_corner_prism.jpg"],
+    "description": "The company has carved a niche as one of the most prominent Prisms Exporters and Suppliers in the national as well as international market. Right-angle prism is the most common type of prisms. It is used to re-direct a beam of light at 90 degrees from the incident direction or used as a 180 beam retro-reflector. They are often coated with various optical coatings to form cubic beam splitters and color separation cubes used in various projection systems. High transmission can be achieved, using the hypotenuse face in total internal reflection (TIR), with an antireflection coating on the entrance and exit faces. The various types of prisms available with us are as follow : \n\nPenta Prism\n\nBeam Splitter Penta Prism\n\nCorner Cube\n\nDove Prism\n\nDispersive Prism\n\nEquilateral Prism\n\nAnamorphic Prism\n\nWedge",
+    "subCategory": []
+  },
+  {
+    "name": "Optical Filters",
+    "image": ["img_optical_filter.jpg"],
+    "description": "We offer the finest quality Optical Interference Filters in the market. Colored glass filters are optical components that control incident wavelength by distribution. Thus more than 60 different Infrared Optical Filters materials are at your continuous disposal. In the following, you will find the principle transmission curves of all optical glass filter materials. They are available in a wide range of colors and specifications. In addition to this, we are one of the most credible Optical Filters Exporters in India.",
+    "subCategory": []
+  },
+  {
+    "name": "Optical Windows",
+    "image": ["img_optical_window.png"],
+    "description": "For the best quality Optical Windows, we are the best destination for you. Our Optical Glass Windows are used for protecting fragile optical components inside an assembly. AR coated BK7 glass window is the most common type. They have good performance over visible and near infrared wavelength region. We also offer fused silica windows and sapphire windows for wider spectral region and harsher environment. BK7 window is the lowest cost type of all three. Moreover, the company is recognized as one of the ace Polished Optical Windows Exporters and Suppliers in India.",
+    "subCategory": []
+  },
+  {
+    "name": "Beam Splitter",
+    "image": ["img_beam_splitter.jpg"],
+    "description": "We have carved a niche as one of the most staggering Optical Beam Splitter Manufacturers and Suppliers in India. The Polarizing cube Beam Splitters split randomly polarized beams into two orthogonal, linearly polarized components: S-polarized light is reflected at a 90Â° angle while P-polarized light is transmitted. Each Polarizing Beam Splitters consists of a pair of precision high tolerance right angle prisms cemented together with a dielectric coating on the hypotenuse of one of the prisms. A multi-layer antireflective coating can be applied to each face of the Beam Splitter in order to produce maximum transmission efficiency.",
+    "subCategory": []
+  },
+  {
+    "name": "Reflectors and Mirrors",
+    "image": ["img_replector.jpg"],
+    "description": "We bring forth high precision Reflectiors and Mirrors in the global as well as domestic market. The company is one of the prominent Plain Mirror Manufacturers in the country. A mirror is an object with a surface that has good secular reflection i.e. it is smooth enough to form an image. The most familiar type of mirror is the plane mirror, which has a flat surface. Curved mirror are also used, to produce magnified or diminished images or focus light or simply distort the reflected image. Its surfaces can be coated by Aluminum or Silver or Gold. Besides, we are also one of the famous Flat Surface Mirrors Suppliers in India.",
+    "subCategory": []
+  },
+  {
+    "name": "Glass Magnifier",
+    "image": ["img_magnifier.jpg"],
+    "description": "We are enlisted amidst the most preeminent Magnifier Lens Manufacturers and Suppliers in India. We offer two types of Glass Magnifier i.e. Spherical Lens Magnifier and Jewelry Triplet Magnifier. The spherical lens magnifier is perfect for reading the small print in books, newspapers or maps. A bright LED light illuminates the viewing area. An easy on/off switch is located on the handle. The high powered lens is distortion free, shatter proof and scratch resistant. Overall length of magnifier is 6 inch. Spherical lens magnifier requires 3 AAA batteries which are not included. Some of our best sellers are the 10x Jewelry Triplet Loupes. 10x Jewelry Triplet magnifier is the type of the loupe used by professional jewelers to grade diamonds and other gemstones. Anything in a gemstone that requires a loupe more powerful than 10x is usually not included on a grading report since it cannot be seen by the human eye without a loupe! Hastings Triplet loupe are designed with black framing around the triplet lens to eliminate reflections that alter the color of the object being viewed with the loupe",
+    "subCategory": []
+  },
+  {
+    "name": "Glass Moulds",
+    "image": ["img_glass_mould.jpg"],
+    "description": "We are looked upon as one of the most overruling Pressed Glass Moulds Manufacturers and Optical Glass Moulds Suppliers in India. We have a complete spectrum of Optical Glasses manufactured by Schott, Ohara, Pilkington and many others. Glass Moulds include the full index range in ingot, block, and strip form. We store a tremendous inventory of raw optical materials to better service the needs of our customers. We take great pride in our inventory to insure accuracy and traceability. One of our strengths is being able to select the materials we carry to various quality levels of straie, bubbles, homogeneity, birefringence, and transmission. We can then machine these selected materials to the blank sizes you require.",
+    "subCategory": []
+  },
+  {
+    "name": "Optical Glasses",
+    "image": ["img_optical_lens.jpg"],
+    "description": "We offer a complete range of Optical Glasses manufactured by Schott, Ohara, and Pilkington among others. Our Optical Eye Glasses includes the full index range in ingot, block, and strip form. We store a tremendous inventory of raw optical materials to better service the needs of our customers. We take great pride in our inventory to insure its accuracy and traceability. One of our strengths is being able to select the materials we carry to various quality levels of straie, bubbles, homogeneity, birefringence, and transmission. We can then machine these selected materials to the blank sizes you require. Consequently, we are identified as one of the most renowned Optical Safety Glasses Manufacturers and Suppliers in the country.",
+    "subCategory": []
+  },
+  {
+    "name": "Opto-Mechanical Components",
+    "image": ["img_opto_components.jpg"],
+    "description": "We manufacture various types of high precision assemblies and sub assemblies as per customers requirements. We maintain high tolerances for our Opto-Mechanical Components using our CNC machines. They are designed and manufactured as per the global standard and quality. You can send your specifications and samples and we will be happy to serve you accordingly. We offer our Opto-Mechanical Components at the most discounted rates as against the ordinary market. Additionally, we are one of the most preferred Micro-Opto-Mechanical Components Manufacturers and Suppliers in the country.",
+    "subCategory": []
+  },
+  {
+    "name": "Telescopes",
+    "image": ["img_telescope.jpg"],
+    "description": "Our Optical Telescopes are designed for daytime observers. The objective lens is large enough to produce crisp, bright images. Our Discovery Telescopes are the first choice of instrument for anyone who has a great view of the nature or the surrounding. It makes an idea choice of gift for the kids or a friend who has just shown interest in exploring the optical instrument. While you can bring a big smile on their face, it will not cut a hole in your pocket. Superior quality Metal or wooden stands can also be supplied, if required. In addition to this, we are one of the major Telescopes Exporters and Suppliers in India.",
+    "subCategory": []
+  },
+  {
+    "name": "Optical Machinery",
+    "image": ["img_optical_mach.jpg"],
+    "description": "The company is dedicatedly engaged in the manufacturing and supplying of highly advanced Optical Machinery in the industry. Our Optical Lens Machinery is produced and designed as per the international quality and norms. Universal optics is the chief Precision Optical Machine Manufacturer in India. We offer you high quality machinery for optics manufacturing. We offer the following machines :\nHigh Speed Lens Polishing Machines\nCurve Generator Machines\nLens Grinding and Polishing Machine\nLens Centering Machines\nGlass Slitting Machine",
+    "subCategory": []
+  }
+]
